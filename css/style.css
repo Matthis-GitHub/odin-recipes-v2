@@ -30,3 +30,9 @@ li {
   border-left-width: 0px;
   border-right-width: 0px;*/
 }
+
+.recipe-img {
+  width: 650px;
+  height: 260px;
+  object-fit: cover;
+}
