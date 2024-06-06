@@ -7,6 +7,10 @@ html {
   background-color: rgb(16, 25, 40);
 }
 
+body {
+  margin: 0;
+}
+
 *,
 *:before,
 *:after {
@@ -35,4 +39,5 @@ li {
   width: 650px;
   height: 260px;
   object-fit: cover;
+  border-radius: 8px;
 }
